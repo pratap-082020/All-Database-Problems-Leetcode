@@ -55,6 +55,11 @@ a {
     </nav>
   </div>
 
+<div class="col l6 s12" style="font-family: 'Satisfy', cursive;">
+                <h3 class="center" style="color:#1A237E">“Created by: Vijay Pratap”</h3>
+                <h5 class="right grey-text text-lighten-4">– John Johnson</h5>
+              </div>
+
 <div id="container" class="container">
 <h5>All Database Problems: Leetcode</h5>
 <p>Copyright © 2021 LeetCode</p>
