@@ -221,7 +221,7 @@ a {
                 <h5 class="white-text">My Profile</h5>
                 <ul>
                   <li><img src="https://img.icons8.com/fluent/20/000000/github.png"/><a class="grey-text text-lighten-3" href="https://github.com/pratap-082020"> Github</a></li>
-                  <li><img src="https://img.icons8.com/fluent/20/000000/code.png"/><a class="grey-text text-lighten-3" href="https://github.com/pratap-082020"> Leetcode</a></li>
+                  <li><img src="https://img.icons8.com/fluent/20/000000/code.png"/><a class="grey-text text-lighten-3" href="https://leetcode.com/pratap_082020/"> Leetcode</a></li>
                   <li><img src="https://img.icons8.com/color/20/000000/facebook-circled--v1.png"/><a class="grey-text text-lighten-3" href="https://www.facebook.com/profile.php?id=100012859302881"> Facebook</a></li>
                 </ul>
               </div>
